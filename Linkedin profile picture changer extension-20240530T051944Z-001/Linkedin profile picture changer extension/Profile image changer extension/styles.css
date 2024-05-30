@@ -1,0 +1,14 @@
+/* Adjust the size of the replaced profile pictures */
+img.ivm-view-attr__img--centered.EntityPhoto-circle-3.update-components-actor__avatar-image.evi-image.lazy-image.ember-view,
+img.EntityPhoto-circle-0,
+img.EntityPhoto-circle-3,
+img.EntityPhoto-square-3,
+img.EntityPhoto-circle-1,
+img.EntityPhoto-circle-3-ghost-person,
+img.discover-entity-type-card__image-circle--dash,
+img.ivm-view-attr__ghost-entity,
+img.ivm-image-view-model__circle-img,
+img.EntityPhoto-square-1 {
+  width: 56px;  /* Adjust according to LinkedIn's original size */
+  height: 56px; /* Adjust according to LinkedIn's original size */
+}
